@@ -15,11 +15,11 @@
 
 ### 重新编码：
 
-![GIF 2023-7-24 23-34-33](GIF 2023-7-24 23-34-33.gif)
+![GIF 2023-7-24 23-34-33](https://github.com/Tohno-Akiha/-/blob/main/GIF%202023-7-24%2023-34-33.gif)
 
  ### 解码：
 
-![GIF 2023-7-24 23-37-15](GIF 2023-7-24 23-37-15.gif)
+![GIF 2023-7-24 23-37-15](https://github.com/Tohno-Akiha/-/blob/main/GIF%202023-7-24%2023-34-33.gif)
 
 ## 对称加密  
 
@@ -39,11 +39,11 @@
 
  ### 加密：
 
-   ![GIF 2023-7-24 23-45-37](GIF 2023-7-24 23-45-37.gif)
+   ![GIF 2023-7-24 23-45-37](https://github.com/Tohno-Akiha/-/blob/main/GIF%202023-7-24%2023-45-37.gif)
 
  ### 解密：
 
-![GIF 2023-7-24 23-47-02](GIF 2023-7-24 23-47-02.gif)
+![GIF 2023-7-24 23-47-02](https://github.com/Tohno-Akiha/-/blob/main/GIF%202023-7-24%2023-47-02.gif)
 
  # 加密图片
 
@@ -51,8 +51,8 @@
 
  ## step1：图片转base64
 
-![GIF 2023-7-24 23-55-27](GIF 2023-7-24 23-55-27.gif)
+![GIF 2023-7-24 23-55-27](https://github.com/Tohno-Akiha/-/blob/main/GIF%202023-7-24%2023-55-27.gif)
 
  ## step2：将剪贴板内容以html文件打开
 
-![GIF 2023-7-24 23-58-17](GIF 2023-7-24 23-58-17.gif)
+![GIF 2023-7-24 23-58-17](https://github.com/Tohno-Akiha/-/blob/main/GIF%202023-7-24%2023-58-17.gif)
