@@ -19,7 +19,7 @@
 
  ### 解码：
 
-![GIF 2023-7-24 23-37-15](https://github.com/Tohno-Akiha/-/blob/main/GIF%202023-7-24%2023-34-33.gif)
+![GIF 2023-7-24 23-37-15](https://github.com/Tohno-Akiha/wechat-in-CCP/blob/main/GIF%202023-7-24%2023-37-15.gif)
 
 ## 对称加密  
 
